@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
 <!--
 **Jaime-espin/jaime-espin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
